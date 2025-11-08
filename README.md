@@ -2,7 +2,7 @@
 Minitalk is a small inter-process messaging project that demonstrates sending and receiving messages between processes using UNIX signals. The project provides two executables: a server that receives messages and a client that sends messages to the server.
 
 # This project is part of the School 42 curriculum (42 Network).
-# It was developed as an assignment to implement inter-process communication using UNIX signals.
+It was developed as an assignment to implement inter-process communication using UNIX signals.
 
 ## Project layout
 
